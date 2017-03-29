@@ -1,0 +1,7 @@
+{
+
+    "require": {
+        "symfony/symfony": "^3.2",
+        "usmanhalalit/pixie": "^2.0"
+    }
+}
